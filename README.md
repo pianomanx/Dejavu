@@ -105,7 +105,7 @@ Below are few examples attack vectors using DejaVu platform you can detect:
 
 # Authors
 * [Bhadresh Patel](https://twitter.com/bhdresh)
-* [Harish Ramadoss](https://twitter.com/hramados)
+* [Harish Ramadoss](https://twitter.com/hramados) founder of [ModernSecurity.io](https://www.modernsecurity.io) 
 
 # Credits
 * Big shout to open source community for previous work on Honeypots
